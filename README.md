@@ -1,7 +1,7 @@
 # ProyectoEncantodelCaribe
 Proyecto de Seminario Taller de Software.
 
-#Integrantes del Equipo
+# Integrantes del Equipo
 - Kevin Israel Valladares Bonilla - 0801200121040
 - Ilda Mariel Quezada Armijo - 1807200301862                                              
 - Eduardo Sady Valladares Amador - 0801200204168
